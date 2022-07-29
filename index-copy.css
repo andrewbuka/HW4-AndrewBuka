@@ -1,26 +1,26 @@
 /* 1 */
 
- h1:hover {
+h1:hover {
   color: red;
 }
 
 /* 2 */
- input[type="text"] {
+input[type="text"] {
   border: 1px solid yellowgreen;
 }
 
 /* 3 */
- a:visited {
+a:visited {
   color: lightgrey;
 }
 
 /* 4 */
- input[type="password"]:disabled {
+input[type="password"]:disabled {
   background-color: coral;
 }
 
 /* 5 */
- {
+input[type="email"]:focus {
   background-color: cyan;
 }
 
