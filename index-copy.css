@@ -52,12 +52,12 @@ input[type="checkbox"]:checked {
 }
 
 /* 7 */
- {
+.parent > div {
   border: 3px solid darkorchid;
 }
 
 /* 8 */
- {
+{
   border: 3px solid darkorchid;
 }
 
