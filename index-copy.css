@@ -15,7 +15,7 @@
 }
 
 /* 4 */
- {
+ input[type="password"]:disabled {
   background-color: coral;
 }
 
